@@ -1,13 +1,13 @@
 # ENG:
 This code is deprecated!
 =================
-- This code will be never updated anymore.
+- This code will never be updated anymore.
 
 No token for You!
 =================
 - Please, get out!
 # PL:
-Ten kod jest ograniczony!
+Ten kod już nie jest rozwijany!
 =================
 - Ten kod już nigdy nie będzie aktualizowany.
 
